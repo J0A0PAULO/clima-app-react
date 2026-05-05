@@ -1,0 +1,21 @@
+.tamanho18 {
+  font-size: 18px;
+}
+
+.container {
+  display: grid;
+  grid-template-rows: repeat(4, 90px);
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 2px solid #fff;
+  height: 90px;
+  width: 300px;
+  gap: 60px;
+}

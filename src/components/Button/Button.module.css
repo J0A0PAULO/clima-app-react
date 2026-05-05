@@ -1,0 +1,15 @@
+.button {
+  margin-top: 20px;
+  width: 132px;
+  height: 42px;
+  background: rgba(255, 255, 255, 0.3);
+  border: none;
+  cursor: pointer;
+  transition: filter 500ms ease;
+  border-radius: 20px;
+  color: white;
+}
+
+.button:hover {
+  filter: brightness(0.8);
+}

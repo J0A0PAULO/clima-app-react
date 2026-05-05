@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  background: linear-gradient(to bottom, #03045E, #000);
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  
+}
