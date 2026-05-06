@@ -73,7 +73,7 @@ npm run dev
 
 Acesse o projeto em produção:
 
-[> Link do deploy — adicione após publicar na Netlify](https://reactclimappsp.netlify.app/)
+https://reactclimappsp.netlify.app/
 
 ---
 
