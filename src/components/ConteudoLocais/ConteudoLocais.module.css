@@ -1,1 +1,25 @@
-/* styles */
+.content {
+  display: grid;
+  grid-template-rows: 110px, (3, 220px);
+   color: #fff;
+   font-size: 18px;
+}
+
+.cardTempo {
+  display: flex;
+  width: 300px;
+  flex-direction: column;
+  border-bottom: 2px solid #fff;
+  gap: 18px;
+  padding: 10px;
+  
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 18px;
+  gap: 10px;
+  border-bottom: 2px solid #fff;
+}
