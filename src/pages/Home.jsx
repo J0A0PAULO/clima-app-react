@@ -11,7 +11,6 @@ export function HomePage () {
         <Container>
               <Button onClick={() => navigate('/locais')}>LOCAIS</Button>
         </Container>
-
           <Container>
           <ContainerContent>
           <TempoAtual></TempoAtual>
@@ -19,11 +18,10 @@ export function HomePage () {
         </Container>
 
         <Container>
-          <ContainerContent>
+          <ContainerContent >
             <TempoDia></TempoDia>
           </ContainerContent>
         </Container>
-
     </>
   )
 }

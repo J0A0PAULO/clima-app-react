@@ -58,7 +58,6 @@ export function ConteudoLocais () {
           </div>
           <p>{tempoMJ?.current.condition.text}</p>
         </div>
-        
       </div>
     </Container>
      
